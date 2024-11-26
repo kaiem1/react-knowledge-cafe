@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/zsrbZwv/IMG-1851.jpg",
+      "title": "The Rise of Quantum Realms",
+      "author": "Ava Harper",
+      "author_img": "https://i.ibb.co.com/6NzVm0R/girl1.jpg",
+      "posted_date": "2024-11-15",
+      "reading_time": 7,
+      "hashtags": ["#ScienceFiction", "#Quantum", "#Adventure"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/BK47xx3/IMG-1868.jpg",
+      "title": "Mastering the Art of Micro Frontends",
+      "author": "Liam Johnson",
+      "author_img": "https://i.ibb.co.com/YZqjz9v/boy1.png",
+      "posted_date": "2024-10-22",
+      "reading_time": 10,
+      "hashtags": ["#Tech", "#MicroFrontends", "#Programming"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/bXK3vZ9/IMG-1863.jpg",
+      "title": "Secrets of Ancient Gaming Cultures",
+      "author": "Mia Chen",
+      "author_img": "https://i.ibb.co.com/dmBTnCp/boy2.jpg",
+      "posted_date": "2024-09-10",
+      "reading_time": 5 ,
+      "hashtags": ["#Gaming", "#History", "#Trivia"]
+    },
+    {
+      "id": 4,
+      "cover": "https://via.placeholder.com/300x200.png?text=Cover+Image+4",
+      "title": "Building a Game Empire: Beginner's Guide",
+      "author": "Ethan Kim",
+      "author_img": "https://i.ibb.co.com/C7TCNZc/girl2.jpg",
+      "posted_date": "2024-11-05",
+      "reading_time": 8 ,
+      "hashtags": ["#Gaming", "#Startups", "#Guide"]
+    },
+    {
+      "id": 5,
+      "cover": "https://via.placeholder.com/300x200.png?text=Cover+Image+5",
+      "title": "Top 10 Indie Games of 2024",
+      "author": "Sophia Lee",
+      "author_img": "https://via.placeholder.com/100x100.png?text=Sophia",
+      "posted_date": "2024-11-20",
+      "reading_time": 6 ,
+      "hashtags": ["#IndieGames", "#Gaming", "#Top10"]
+    }
+  ]
+  
